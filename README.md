@@ -1,2 +1,8 @@
 # UNIFIED-MENTOR-INTERN
 This repository have the contents of the Intership with the unified Mentor
+
+## PROJECTS COMPLETED WITH REPORT(as pdf)
+1. WORLD CUP ANALYSIS
+2. HEART DISEASE DIAGNOSTIC
+3. ENTERTAINER DATA ANALYTICS
+4. AMAZON SALES 
